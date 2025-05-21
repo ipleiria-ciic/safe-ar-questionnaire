@@ -16,7 +16,7 @@ This repository contains the notebook with the source code used to analyze respo
 
 ## Citation 
 
-If you use any portion of the code available in this repository, please cite the following paper:
+If you use any piece of the code available in this repository, please cite the following paper:
 
 ```bibtex
 
