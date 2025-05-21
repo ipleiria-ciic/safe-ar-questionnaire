@@ -14,6 +14,25 @@ This repository contains the notebook with the source code used to analyze respo
 - Augmented Reality
 - Machine Learning
 
+## Citation 
+
+```bibtex
+
+@Article{fi17020055,
+AUTHOR = {Cruz, Ana Cassia and Costa, Rogério Luís de C. and Santos, Leonel and Rabadão, Carlos and Marto, Anabela and Gonçalves, Alexandrino},
+TITLE = {Assessing User Perceptions and Preferences on Applying Obfuscation Techniques for Privacy Protection in Augmented Reality},
+JOURNAL = {Future Internet},
+VOLUME = {17},
+YEAR = {2025},
+NUMBER = {2},
+ARTICLE-NUMBER = {55},
+ISSN = {1999-5903},
+DOI = {10.3390/fi17020055}
+}
+
+```
+
+
 ## Acknowledgements
 This work is funded by FCT - Fundação para a Ciência e a Tecnologia, I.P., through project with reference 2022.09235.PTDC.
 
